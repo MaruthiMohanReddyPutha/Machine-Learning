@@ -1,1 +1,1 @@
-# Learning to Rank using Linear Regression
+# Learning to Rank (LeToR) using Linear Regression
